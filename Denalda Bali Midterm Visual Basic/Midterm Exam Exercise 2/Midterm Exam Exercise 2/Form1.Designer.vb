@@ -306,7 +306,7 @@ Partial Class Form1
         Controls.Add(GroupBox1)
         Margin = New Padding(3, 2, 3, 2)
         Name = "Form1"
-        Text = "Bookstore"
+        Text = "Store"
         GroupBox1.ResumeLayout(False)
         GroupBox1.PerformLayout()
         GroupBox2.ResumeLayout(False)
